@@ -4,3 +4,4 @@ modified on new-feature branch
 modified on new-feature branch2
 automatic merge
 update for rebase practice
+update on main branch for rebase conflict
