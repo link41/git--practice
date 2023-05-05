@@ -6,3 +6,4 @@ automatic merge
 update for rebase practice
 rebase for conflict
 rebase for git pull and rebase
+stash for conflict
