@@ -9,3 +9,4 @@ rebase for git pull and rebase
 stash for conflict
 practice for untracked file stash
 practice for stash file with message(2nd)
+parctice for git diff (tagname)
